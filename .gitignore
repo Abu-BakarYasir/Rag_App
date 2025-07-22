@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+.env
+__pycache__/
+*.pyc
+
+# LangChain Vector DB
+db/
+chroma_db/
+*.sqlite3
+*.faiss
+#personal PDFs
+*.pdf
