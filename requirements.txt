@@ -5,6 +5,7 @@ langchain
 langchain_groq
 langchain-community
 langchain-huggingface
+langchain_chroma
 langgraph
 sentence-transformers
 pypdf
