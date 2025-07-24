@@ -2,6 +2,7 @@
 streamlit
 python-dotenv
 langchain
+langchain_groq
 langchain-community
 langchain-huggingface
 langgraph
