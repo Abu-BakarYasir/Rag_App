@@ -26,7 +26,11 @@ It allows you to ask questions based on the content of a PDF file (like a ReactJ
 - 📄 **PDF Handling**: PyMuPDF
 
 ---
+## 📄 ReactJS PDF:
 
+[ReactJSNotesForProfessionals.pdf](https://github.com/user-attachments/files/22127164/ReactJSNotesForProfessionals.pdf)
+
+---
 ## 🛠️ Setup
 
 ```bash
